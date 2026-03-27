@@ -1,5 +1,0 @@
-langchain
-langchain-openai
-duckduckgo-search
-wikipedia
-python-dotenv
